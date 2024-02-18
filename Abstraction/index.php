@@ -21,4 +21,4 @@ class Bike extends Vehicles
 }
 
 $bike = new Bike();
-echo $bike->getTotal(5);
+$bike->getTotal(1);
